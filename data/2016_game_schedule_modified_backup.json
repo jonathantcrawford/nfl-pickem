@@ -1,0 +1,7943 @@
+{
+	"fullgameschedule" : 	{
+		"lastUpdatedOn" : "2017-11-27 6:30:11 PM",
+		"gameentry" : [ 			{
+				"id" : "35171",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-08",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "30904",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "30905",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "30906",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "30907",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "30908",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "30909",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "30910",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "30911",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "30912",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "30913",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "30915",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "35175",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "35173",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-11",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "30917",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-12",
+				"time" : "7:10PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "30918",
+				"week" : "1",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-12",
+				"time" : "10:20PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "30919",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-15",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "30920",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "30921",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "30922",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "30923",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "30924",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "30925",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "30926",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "30927",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "30928",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "30929",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "30930",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "30931",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "30932",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "30933",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-18",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "30934",
+				"week" : "2",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-19",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "30935",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-22",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "30936",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "30937",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "30938",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "30939",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "30940",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "30941",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "30942",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "30943",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "30944",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "30945",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "30946",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "30947",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "30948",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "30949",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-25",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "30950",
+				"week" : "3",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-26",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "30951",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-09-29",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "30952",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "9:30AM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "30953",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "30954",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "30955",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "30956",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "30957",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "30958",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "30959",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "30960",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "30961",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "30962",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "30963",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "30964",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-02",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "30965",
+				"week" : "4",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-03",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "30966",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-06",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "30967",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "30968",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "30969",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "30970",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "30971",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "30972",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "30973",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "30974",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "30975",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "30976",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "30977",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "30978",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-09",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "30979",
+				"week" : "5",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-10",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "30980",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-13",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "30981",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "30982",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "30983",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "30984",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "30985",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "30986",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "30987",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "30988",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "30989",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "30990",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "30991",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "30992",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "30993",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-16",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "30994",
+				"week" : "6",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-17",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "30995",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-20",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "30996",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "9:30AM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Twickenham Stadium"
+			}
+, 			{
+				"id" : "30997",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "30998",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "30999",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31000",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "31001",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "31002",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "31003",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "31004",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "35177",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "4:00PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "31006",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31007",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "31008",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-23",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "31009",
+				"week" : "7",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-24",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "31010",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-27",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "31011",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "9:30AM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "31012",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "31013",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31014",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "31015",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "31016",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31018",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "31020",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "31019",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "31017",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31021",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-30",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "31022",
+				"week" : "8",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-10-31",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "31023",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-03",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31024",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "31025",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31026",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "31027",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "31028",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31029",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "31030",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "31031",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "31032",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "31033",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "31034",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-06",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "31035",
+				"week" : "9",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-07",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "31036",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-10",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "31037",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "31038",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "31039",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31040",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "31041",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31042",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31043",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "31044",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "31045",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "31046",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "31047",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "31048",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-13",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "31049",
+				"week" : "10",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-14",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31050",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-17",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "31051",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31052",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "31053",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "31054",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "31055",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "31056",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "31057",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31058",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "31059",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "31060",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "31061",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "31062",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-20",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "31063",
+				"week" : "11",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-21",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "31064",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-24",
+				"time" : "12:30PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "31065",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-24",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "31066",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-24",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "31067",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "31068",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "31069",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "31070",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31071",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31072",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "31073",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "31074",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "31075",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31076",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "31078",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31077",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-27",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "31079",
+				"week" : "12",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-11-28",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31080",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-01",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "31081",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31082",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "31083",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "31084",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "31085",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "31086",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "31087",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "31088",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "31089",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "31090",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "31091",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "31092",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "31093",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-04",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "31094",
+				"week" : "13",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-05",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31095",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-08",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "31096",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "31097",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "31099",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31100",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "31101",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "31102",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31103",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+, 			{
+				"id" : "31104",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "31105",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "31106",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "31107",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "31108",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "31098",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31109",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-11",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31110",
+				"week" : "14",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-12",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "31111",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-15",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "31112",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-17",
+				"time" : "9:25PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31113",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "31116",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "31117",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"location" : "M&T Bank Stadium"
+			}
+, 			{
+				"id" : "31118",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "31119",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31120",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "31125",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "37727",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "2:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "31121",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"location" : "University of Phoenix Stadium"
+			}
+, 			{
+				"id" : "31122",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31123",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "31124",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "31114",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-18",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "31126",
+				"week" : "15",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-19",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "31127",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-22",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31128",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"location" : "Ralph Wilson Stadium"
+			}
+, 			{
+				"id" : "31130",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"location" : "Gillette Stadium"
+			}
+, 			{
+				"id" : "31131",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"location" : "EverBank Field"
+			}
+, 			{
+				"id" : "31132",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"location" : "Lambeau Field"
+			}
+, 			{
+				"id" : "31133",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"location" : "FirstEnergy Stadium"
+			}
+, 			{
+				"id" : "31134",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"location" : "Soldier Field"
+			}
+, 			{
+				"id" : "31135",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"location" : "Bank of America Stadium"
+			}
+, 			{
+				"id" : "31136",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "4:05PM",
+				"awayTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"location" : "O.co Coliseum"
+			}
+, 			{
+				"id" : "31137",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"location" : "CenturyLink Field"
+			}
+, 			{
+				"id" : "31138",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "31129",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"location" : "Mercedes-Benz Stadium"
+			}
+, 			{
+				"id" : "31139",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-24",
+				"time" : "8:25PM",
+				"awayTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"location" : "NRG Stadium"
+			}
+, 			{
+				"id" : "31140",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-25",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "31141",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-25",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"location" : "Arrowhead Stadium"
+			}
+, 			{
+				"id" : "31142",
+				"week" : "16",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2016-12-26",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"location" : "AT&T Stadium"
+			}
+, 			{
+				"id" : "31144",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "56",
+					"City" : "Baltimore",
+					"Name" : "Ravens",
+					"Abbreviation" : "BAL",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Baltimore_Ravens_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "57",
+					"City" : "Cincinnati",
+					"Name" : "Bengals",
+					"Abbreviation" : "CIN",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cincinnati_Bengals_logo.svg"
+				}
+,
+				"location" : "Paul Brown Stadium"
+			}
+, 			{
+				"id" : "31146",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "64",
+					"City" : "Houston",
+					"Name" : "Texans",
+					"Abbreviation" : "HOU",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Houston_Texans_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "67",
+					"City" : "Tennessee",
+					"Name" : "Titans",
+					"Abbreviation" : "TEN",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tennessee_Titans_logo.svg"
+				}
+,
+				"location" : "Nissan Stadium"
+			}
+, 			{
+				"id" : "31147",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "69",
+					"City" : "Carolina",
+					"Name" : "Panthers",
+					"Abbreviation" : "CAR",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Carolina_Panthers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "71",
+					"City" : "Tampa Bay",
+					"Name" : "Buccaneers",
+					"Abbreviation" : "TB",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+				}
+,
+				"location" : "Raymond James Stadium"
+			}
+, 			{
+				"id" : "31149",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "66",
+					"City" : "Jacksonville",
+					"Name" : "Jaguars",
+					"Abbreviation" : "JAX",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Jacksonville_Jaguars_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "65",
+					"City" : "Indianapolis",
+					"Name" : "Colts",
+					"Abbreviation" : "IND",
+					"Conference" : "AFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Indianapolis_Colts_logo.svg"
+				}
+,
+				"location" : "Lucas Oil Stadium"
+			}
+, 			{
+				"id" : "31150",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "50",
+					"City" : "New England",
+					"Name" : "Patriots",
+					"Abbreviation" : "NE",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_England_Patriots_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "49",
+					"City" : "Miami",
+					"Name" : "Dolphins",
+					"Abbreviation" : "MIA",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Miami_Dolphins_logo.svg"
+				}
+,
+				"location" : "Sun Life Stadium"
+			}
+, 			{
+				"id" : "31151",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "60",
+					"City" : "Chicago",
+					"Name" : "Bears",
+					"Abbreviation" : "CHI",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Chicago_Bears_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "63",
+					"City" : "Minnesota",
+					"Name" : "Vikings",
+					"Abbreviation" : "MIN",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Minnesota_Vikings_logo.svg"
+				}
+,
+				"location" : "TCF Bank Stadium"
+			}
+, 			{
+				"id" : "31152",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "48",
+					"City" : "Buffalo",
+					"Name" : "Bills",
+					"Abbreviation" : "BUF",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Buffalo_Bills_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "51",
+					"City" : "New York",
+					"Name" : "Jets",
+					"Abbreviation" : "NYJ",
+					"Conference" : "AFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Jets_logo.svg"
+				}
+,
+				"location" : "MetLife Stadium"
+			}
+, 			{
+				"id" : "31153",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "52",
+					"City" : "Dallas",
+					"Name" : "Cowboys",
+					"Abbreviation" : "DAL",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Dallas_Cowboys.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "54",
+					"City" : "Philadelphia",
+					"Name" : "Eagles",
+					"Abbreviation" : "PHI",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Philadelphia_Eagles_logo.svg"
+				}
+,
+				"location" : "Lincoln Financial Field"
+			}
+, 			{
+				"id" : "31154",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "1:00PM",
+				"awayTeam" : 				{
+					"ID" : "58",
+					"City" : "Cleveland",
+					"Name" : "Browns",
+					"Abbreviation" : "CLE",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Cleveland_Browns_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "59",
+					"City" : "Pittsburgh",
+					"Name" : "Steelers",
+					"Abbreviation" : "PIT",
+					"Conference" : "AFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Pittsburgh_Steelers_logo.svg"
+				}
+,
+				"location" : "Heinz Field"
+			}
+, 			{
+				"id" : "31155",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "76",
+					"City" : "Arizona",
+					"Name" : "Cardinals",
+					"Abbreviation" : "ARI",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Arizona_Cardinals_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "80",
+					"City" : "Los Angeles",
+					"Name" : "Rams",
+					"Abbreviation" : "LA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Los_Angeles_Rams_logo.svg"
+				}
+,
+				"location" : "Los Angeles Memorial Coliseum"
+			}
+, 			{
+				"id" : "31156",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "74",
+					"City" : "Oakland",
+					"Name" : "Raiders",
+					"Abbreviation" : "OAK",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Oakland_Raiders_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "72",
+					"City" : "Denver",
+					"Name" : "Broncos",
+					"Abbreviation" : "DEN",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Denver_Broncos_logo.svg"
+				}
+,
+				"location" : "Sports Authority Field"
+			}
+, 			{
+				"id" : "31157",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "73",
+					"City" : "Kansas City",
+					"Name" : "Chiefs",
+					"Abbreviation" : "KC",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Kansas_City_Chiefs_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "75",
+					"City" : "San Diego",
+					"Name" : "Chargers",
+					"Abbreviation" : "SD",
+					"Conference" : "AFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Diego_Chargers_logo.svg"
+				}
+,
+				"location" : "Qualcomm Stadium"
+			}
+, 			{
+				"id" : "31158",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:25PM",
+				"awayTeam" : 				{
+					"ID" : "79",
+					"City" : "Seattle",
+					"Name" : "Seahawks",
+					"Abbreviation" : "SEA",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/Seattle_Seahawks_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "78",
+					"City" : "San Francisco",
+					"Name" : "49ers",
+					"Abbreviation" : "SF",
+					"Conference" : "NFC",
+					"Division" : "West",
+					"Logo" : "content/logos/San_Francisco_49ers_logo.svg"
+				}
+,
+				"location" : "Levi's Stadium"
+			}
+, 			{
+				"id" : "31143",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "70",
+					"City" : "New Orleans",
+					"Name" : "Saints",
+					"Abbreviation" : "NO",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/New_Orleans_Saints_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "68",
+					"City" : "Atlanta",
+					"Name" : "Falcons",
+					"Abbreviation" : "ATL",
+					"Conference" : "NFC",
+					"Division" : "South",
+					"Logo" : "content/logos/Atlanta_Falcons_logo.svg"
+				}
+,
+				"location" : "Georgia Dome"
+			}
+, 			{
+				"id" : "31145",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "4:30PM",
+				"awayTeam" : 				{
+					"ID" : "53",
+					"City" : "New York",
+					"Name" : "Giants",
+					"Abbreviation" : "NYG",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/New_York_Giants_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "55",
+					"City" : "Washington",
+					"Name" : "Redskins",
+					"Abbreviation" : "WAS",
+					"Conference" : "NFC",
+					"Division" : "East",
+					"Logo" : "content/logos/Washington_Redskins_logo.svg"
+				}
+,
+				"location" : "FedEx Field"
+			}
+, 			{
+				"id" : "31148",
+				"week" : "17",
+				"scheduleStatus" : "Normal",
+				"originalDate" : null,
+				"originalTime" : null,
+				"delayedOrPostponedReason" : null,
+				"date" : "2017-01-01",
+				"time" : "8:30PM",
+				"awayTeam" : 				{
+					"ID" : "62",
+					"City" : "Green Bay",
+					"Name" : "Packers",
+					"Abbreviation" : "GB",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Green_Bay_Packers_logo.svg"
+				}
+,
+				"homeTeam" : 				{
+					"ID" : "61",
+					"City" : "Detroit",
+					"Name" : "Lions",
+					"Abbreviation" : "DET",
+					"Conference" : "NFC",
+					"Division" : "North",
+					"Logo" : "content/logos/Detroit_Lions_logo.svg"
+				}
+,
+				"location" : "Ford Field"
+			}
+ ]
+	}
+
+}
