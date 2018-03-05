@@ -12,19 +12,19 @@
 
           .when('/', {
               controller: 'HomeController',
-              templateUrl: 'views/home/home.view.html',
+              templateUrl: 'partials/home.view.html',
               controllerAs: 'vm'
           })
 
           .when('/login', {
               controller: 'LoginController',
-              templateUrl: 'views/login/login.view.html',
+              templateUrl: 'partials/login.view.html',
               controllerAs: 'vm'
           })
 
           .when('/register', {
               controller: 'RegisterController',
-              templateUrl: 'views/register/register.view.html',
+              templateUrl: 'partials/register.view.html',
               controllerAs: 'vm'
           });
     }

@@ -49,12 +49,12 @@
             });
         }
 
-        $http.get('/data/teams.json')
+        $http.get('./data/teams.json')
         .then(function(response){
           $scope.teams = response.data;
         });
 
-        $http.get('/data/2016_full_game_schedule.json')
+        $http.get('./data/2016_full_game_schedule.json')
         .then(function(response){
           $scope.games = response.data;
         });

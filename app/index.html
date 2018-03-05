@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-us" ng-app="app">
+
+  <header>
+    <!-- compatibility -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- bootstrap dependencies -->
+    <script src="lib/jquery/jquery-3.2.1.slim.min.js"></script>
+    <script src="lib/bootstrap/popper.min.js"></script>
+    <script src="lib/bootstrap.min.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
+
+    <!-- angularjs dependencies -->
+    <script src="lib/angular/angular.min.js"></script>
+    <script src="lib/angular/angular-route.min.js"></script>
+    <script src="lib/angular/angular-cookies.min.js"></script>
+
+    <!-- angularjs config, modules and resources -->
+    <script src="js/app.js"></script>
+
+    <!-- login form template dependencies -->
+    <!-- https://github.com/cornflourblue/angular-registration-login-example-->
+    <script src="js/services/authentication.service.js"></script>
+    <script src="js/services/flash.service.js"></script>
+    <script src="js/services/user.service.local-storage.js"></script>
+
+    <!-- angularjs controllers -->
+    <script src="js/controllers/home.controller.js"></script>
+    <script src="js/controllers/login.controller.js"></script>
+    <script src="js/controllers/register.controller.js"></script>
+  </header>
+
+  <!-- application view -->
+  <body>
+    <div ng-view></div>
+  </body>
+
+</html>
