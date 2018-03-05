@@ -13,10 +13,10 @@
         })
         .controller('HomeController', HomeController);
 
-    HomeController.$inject = ['UserService', '$rootScope', '$scope','$http'];
+    HomeController.$inject = ['UserService', '$rootScope', '$scope', '$http'];
     function HomeController(UserService, $rootScope, $scope, $http) {
-        var vm = this;
 
+        var vm = this;
         vm.user = null;
         vm.allUsers = [];
         vm.deleteUser = deleteUser;
@@ -49,8 +49,12 @@
             });
         }
 
+        $http.get('/data/teams.json')
+        .then(function(response){
+          $scope.teams = response.data;
+        });
 
-        $http.get('data/2016_game_schedule_modified.json')
+        $http.get('/data/2016_full_game_schedule.json')
         .then(function(response){
           $scope.games = response.data;
         });
@@ -59,29 +63,31 @@
         $scope.conferences = ['Any', 'AFC', 'NFC'];
         $scope.divisions = ['Any', 'North', 'East', 'West', 'South'];
 
-
-
-        $scope.selectionFilter = function(gameentry) {
+        $scope.selectionFilter = function(game) {
           var conferenceMatches = false;
           var divisionMatches = false;
-          if ($scope.selection == undefined) {return true;}
+          if ($scope.current_selection == undefined) {return true;}
           else
           {
 
-            if (gameentry.awayTeam.Conference == $scope.selection.conference){conferenceMatches = true;}
-            else if ($scope.selection.conference == "Any"){conferenceMatches = true;}
+            if ($scope.teams[game.awayTeam.ID].Conference == $scope.current_selection.conference){conferenceMatches = true;}
+            else if ($scope.current_selection.conference == "Any"){conferenceMatches = true;}
             else{conferenceMatches = false;}
-            if (gameentry.awayTeam.Division == $scope.selection.division){divisionMatches = true;}
-            else if ($scope.selection.division == "Any"){divisionMatches = true;}
+
+            if ($scope.teams[game.awayTeam.ID].Division == $scope.current_selection.division){divisionMatches = true;}
+            else if ($scope.current_selection.division == "Any"){divisionMatches = true;}
             else{divisionMatches = false;}
             if (conferenceMatches == true && divisionMatches == true) {return true;}
 
-            if (gameentry.homeTeam.Conference == $scope.selection.conference){conferenceMatches = true;}
-            else if ($scope.selection.conference == "Any"){conferenceMatches = true;}
+            if ($scope.teams[game.homeTeam.ID].Conference == $scope.current_selection.conference){conferenceMatches = true;}
+            else if ($scope.current_selection.conference == "Any"){conferenceMatches = true;}
             else{conferenceMatches = false;}
-            if (gameentry.homeTeam.Division == $scope.selection.division){divisionMatches = true;}
-            else if ($scope.selection.division == "Any"){divisionMatches = true;}
+
+            if ($scope.teams[game.homeTeam.ID].Division == $scope.current_selection.division){divisionMatches = true;}
+            else if ($scope.current_selection.division == "Any"){divisionMatches = true;}
             else{divisionMatches = false;}
+
+
             if (conferenceMatches == true && divisionMatches == true) {return true;}
 
           }
