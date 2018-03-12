@@ -1,6 +1,6 @@
 ﻿import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
 
 // used to create fake backend
@@ -26,13 +26,19 @@ import { RegisterComponent } from './register/index';
 import { WeatherComponent } from './weather/weather.component';
 
 
+import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { GamePipe } from './_pipes/game.pipe';
+
+
 
 @NgModule({
     imports: [
+        NgbModule.forRoot(),
         BrowserModule,
         FormsModule,
+        ReactiveFormsModule,
         HttpClientModule,
-        routing
+        routing,
     ],
     declarations: [
         AppComponent,
@@ -40,7 +46,8 @@ import { WeatherComponent } from './weather/weather.component';
         HomeComponent,
         LoginComponent,
         RegisterComponent,
-        WeatherComponent
+        WeatherComponent,
+        GamePipe
     ],
     providers: [
         AuthGuard,

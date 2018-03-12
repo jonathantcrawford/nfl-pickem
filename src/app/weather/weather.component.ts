@@ -12,6 +12,7 @@ import 'rxjs/add/operator/map';
 })
 export class WeatherComponent implements OnInit {
 
+
   restfulData: any = {};
 
   constructor(private http: HttpClient) {

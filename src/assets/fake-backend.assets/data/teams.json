@@ -13,7 +13,7 @@
       "State": "NY",
       "Zip": "14127"
     },
-    "Logo": "content/logos/Buffalo_Bills_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Buffalo_Bills_logo.svg"
   },
   {
     "Id": "49",
@@ -29,7 +29,7 @@
       "State": "FL",
       "Zip": "33056"
     },
-    "Logo": "content/logos/Miami_Dolphins_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Miami_Dolphins_logo.svg"
   },
   {
     "Id": "50",
@@ -45,7 +45,7 @@
       "State": "MA",
       "Zip": "02035"
     },
-    "Logo": "content/logos/New_England_Patriots_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/New_England_Patriots_logo.svg"
   },
   {
     "Id": "51",
@@ -61,7 +61,7 @@
       "State": "NJ",
       "Zip": "07073"
     },
-    "Logo": "content/logos/New_York_Jets_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/New_York_Jets_logo.svg"
   },
   {
     "Id": "52",
@@ -77,7 +77,7 @@
       "State": "TX",
       "Zip": "76011"
     },
-    "Logo": "content/logos/Dallas_Cowboys_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Dallas_Cowboys_logo.svg"
   },
   {
     "Id": "53",
@@ -93,7 +93,7 @@
       "State": "NJ",
       "Zip": "07073"
     },
-    "Logo": "content/logos/New_York_Giants_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/New_York_Giants_logo.svg"
   },
   {
     "Id": "54",
@@ -109,7 +109,7 @@
       "State": "PA",
       "Zip": "19148"
     },
-    "Logo": "content/logos/Philadelphia_Eagles_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Philadelphia_Eagles_logo.svg"
   },
   {
     "Id": "55",
@@ -125,7 +125,7 @@
       "State": "MD",
       "Zip": "20785"
     },
-    "Logo": "content/logos/Washington_Redskins_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Washington_Redskins_logo.svg"
   },
   {
     "Id": "56",
@@ -141,7 +141,7 @@
       "State": "MD",
       "Zip": "21230"
     },
-    "Logo": "content/logos/Baltimore_Ravens_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Baltimore_Ravens_logo.svg"
   },
   {
     "Id": "57",
@@ -157,7 +157,7 @@
       "State": "OH",
       "Zip": "45202"
     },
-    "Logo": "content/logos/Cincinnati_Bengals_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Cincinnati_Bengals_logo.svg"
   },
   {
     "Id": "58",
@@ -173,7 +173,7 @@
       "State": "OH",
       "Zip": "44114"
     },
-    "Logo": "content/logos/Cleveland_Browns_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Cleveland_Browns_logo.svg"
   },
   {
     "Id": "59",
@@ -189,7 +189,7 @@
       "State": "PA",
       "Zip": "15212"
     },
-    "Logo": "content/logos/Pittsburgh_Steelers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Pittsburgh_Steelers_logo.svg"
   },
   {
     "Id": "60",
@@ -205,7 +205,7 @@
       "State": "IL",
       "Zip": "60605"
     },
-    "Logo": "content/logos/Chicago_Bears_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Chicago_Bears_logo.svg"
   },
   {
     "Id": "61",
@@ -221,7 +221,7 @@
       "State": "MI",
       "Zip": "48226"
     },
-    "Logo": "content/logos/Detroit_Lions_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Detroit_Lions_logo.svg"
   },
   {
     "Id": "62",
@@ -237,7 +237,7 @@
       "State": "WI",
       "Zip": "54304"
     },
-    "Logo": "content/logos/Green_Bay_Packers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Green_Bay_Packers_logo.svg"
   },
   {
     "Id": "63",
@@ -253,7 +253,7 @@
       "State": "MN",
       "Zip": "55455"
     },
-    "Logo": "content/logos/Minnesota_Vikings_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Minnesota_Vikings_logo.svg"
   },
   {
     "Id": "64",
@@ -269,7 +269,7 @@
       "State": "TX",
       "Zip": "77054"
     },
-    "Logo": "content/logos/Houston_Texans_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Houston_Texans_logo.svg"
   },
   {
     "Id": "65",
@@ -285,7 +285,7 @@
       "State": "IN",
       "Zip": "46225"
     },
-    "Logo": "content/logos/Indianapolis_Colts_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Indianapolis_Colts_logo.svg"
   },
   {
     "Id": "66",
@@ -301,7 +301,7 @@
       "State": "FL",
       "Zip": "32202"
     },
-    "Logo": "content/logos/Jacksonville_Jaguars_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Jacksonville_Jaguars_logo.svg"
   },
   {
     "Id": "67",
@@ -317,7 +317,7 @@
       "State": "TN",
       "Zip": "37213"
     },
-    "Logo": "content/logos/Tennessee_Titans_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Tennessee_Titans_logo.svg"
   },
   {
     "Id": "68",
@@ -333,7 +333,7 @@
       "State": "GA",
       "Zip": "30313"
     },
-    "Logo": "content/logos/Atlanta_Falcons_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Atlanta_Falcons_logo.svg"
   },
   {
     "Id": "69",
@@ -349,7 +349,7 @@
       "State": "NC",
       "Zip": "28202"
     },
-    "Logo": "content/logos/Carolina_Panthers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Carolina_Panthers_logo.svg"
   },
   {
     "Id": "70",
@@ -365,7 +365,7 @@
       "State": "LA",
       "Zip": "70112"
     },
-    "Logo": "content/logos/New_Orleans_Saints_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/New_Orleans_Saints_logo.svg"
   },
   {
     "Id": "71",
@@ -381,7 +381,7 @@
       "State": "FL",
       "Zip": "33607"
     },
-    "Logo": "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Tampa_Bay_Buccaneers_logo.svg"
   },
   {
     "Id": "72",
@@ -397,7 +397,7 @@
       "State": "CO",
       "Zip": "80204"
     },
-    "Logo": "content/logos/Denver_Broncos_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Denver_Broncos_logo.svg"
   },
   {
     "Id": "73",
@@ -413,7 +413,7 @@
       "State": "MO",
       "Zip": "64129"
     },
-    "Logo": "content/logos/Kansas_City_Chiefs_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Kansas_City_Chiefs_logo.svg"
   },
   {
     "Id": "74",
@@ -429,7 +429,7 @@
       "State": "CA",
       "Zip": "94621"
     },
-    "Logo": "content/logos/Oakland_Raiders_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Oakland_Raiders_logo.svg"
   },
   {
     "Id": "75",
@@ -445,7 +445,7 @@
       "State": "CA",
       "Zip": "92108"
     },
-    "Logo": "content/logos/San_Diego_Chargers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/San_Diego_Chargers_logo.svg"
   },
   {
     "Id": "76",
@@ -461,7 +461,7 @@
       "State": "AZ",
       "Zip": "85305"
     },
-    "Logo": "content/logos/Arizona_Cardinals_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Arizona_Cardinals_logo.svg"
   },
   {
     "Id": "77",
@@ -477,7 +477,7 @@
       "State": "CA",
       "Zip": "90037"
     },
-    "Logo": "content/logos/Los_Angeles_Rams_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Los_Angeles_Rams_logo.svg"
   },
   {
     "Id": "78",
@@ -493,7 +493,7 @@
       "State": "CA",
       "Zip": "95054"
     },
-    "Logo": "content/logos/San_Francisco_49ers_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/San_Francisco_49ers_logo.svg"
   },
   {
     "Id": "79",
@@ -509,6 +509,6 @@
       "State": "WA",
       "Zip": "98134"
     },
-    "Logo": "content/logos/Seattle_Seahawks_logo.svg"
+    "Logo": "./assets/fake-backend.assets/logos/Seattle_Seahawks_logo.svg"
   }
 ]

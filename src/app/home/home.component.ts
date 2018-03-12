@@ -6,10 +6,8 @@ import { UserService } from '../_services/index';
 import { Team  } from '../_models/index';
 import { TeamService } from '../_services/index';
 
-
 import { GameSchedule  } from '../_models/index';
 import { GameScheduleService } from '../_services/index';
-
 
 
 @Component({
@@ -23,6 +21,7 @@ export class HomeComponent implements OnInit {
 
     teams: Team[];
     games: GameSchedule;
+
 
 
     constructor(
