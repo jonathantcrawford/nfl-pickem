@@ -1,0 +1,514 @@
+[
+  {
+    "Id": "48",
+    "Location": "Buffalo",
+    "Name": "Bills",
+    "Abbreviation": "BUF",
+    "Conference": "AFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "Ralph Wilson Stadium",
+      "Street": "1 Bills Dr",
+      "City": "Orchard_Park",
+      "State": "NY",
+      "Zip": "14127"
+    },
+    "Logo": "content/logos/Buffalo_Bills_logo.svg"
+  },
+  {
+    "Id": "49",
+    "Location": "Miami",
+    "Name": "Dolphins",
+    "Abbreviation": "MIA",
+    "Conference": "AFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "Sun Life Stadium",
+      "Street": "347 Don Shula Dr",
+      "City": "Miami_Gardens",
+      "State": "FL",
+      "Zip": "33056"
+    },
+    "Logo": "content/logos/Miami_Dolphins_logo.svg"
+  },
+  {
+    "Id": "50",
+    "Location": "New England",
+    "Name": "Patriots",
+    "Abbreviation": "NE",
+    "Conference": "AFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "Gillette Stadium",
+      "Street": "1 Patriot Pl",
+      "City": "Foxborough",
+      "State": "MA",
+      "Zip": "02035"
+    },
+    "Logo": "content/logos/New_England_Patriots_logo.svg"
+  },
+  {
+    "Id": "51",
+    "Location": "New York",
+    "Name": "Jets",
+    "Abbreviation": "NYJ",
+    "Conference": "AFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "MetLife Stadium",
+      "Street": "1 MetLife Stadium Dr",
+      "City": "East_Rutherford",
+      "State": "NJ",
+      "Zip": "07073"
+    },
+    "Logo": "content/logos/New_York_Jets_logo.svg"
+  },
+  {
+    "Id": "52",
+    "Location": "Dallas",
+    "Name": "Cowboys",
+    "Abbreviation": "DAL",
+    "Conference": "NFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "AT&T Stadium",
+      "Street": "1 AT&T Way",
+      "City": "Arlington",
+      "State": "TX",
+      "Zip": "76011"
+    },
+    "Logo": "content/logos/Dallas_Cowboys_logo.svg"
+  },
+  {
+    "Id": "53",
+    "Location": "New York",
+    "Name": "Giants",
+    "Abbreviation": "NYG",
+    "Conference": "NFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "MetLife Stadium",
+      "Street": "1 MetLife Stadium Dr",
+      "City": "East_Rutherford",
+      "State": "NJ",
+      "Zip": "07073"
+    },
+    "Logo": "content/logos/New_York_Giants_logo.svg"
+  },
+  {
+    "Id": "54",
+    "Location": "Philadelphia",
+    "Name": "Eagles",
+    "Abbreviation": "PHI",
+    "Conference": "NFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "Lincoln Financial Field",
+      "Street": "1 Lincoln Financial Field Way",
+      "City": "Philadelphia",
+      "State": "PA",
+      "Zip": "19148"
+    },
+    "Logo": "content/logos/Philadelphia_Eagles_logo.svg"
+  },
+  {
+    "Id": "55",
+    "Location": "Washington",
+    "Name": "Redskins",
+    "Abbreviation": "WAS",
+    "Conference": "NFC",
+    "Division": "East",
+    "Stadium": {
+      "Name": "FedEx Field",
+      "Street": "1600 Fedex Way",
+      "City": "Hyattsville",
+      "State": "MD",
+      "Zip": "20785"
+    },
+    "Logo": "content/logos/Washington_Redskins_logo.svg"
+  },
+  {
+    "Id": "56",
+    "Location": "Baltimore",
+    "Name": "Ravens",
+    "Abbreviation": "BAL",
+    "Conference": "AFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "M&T Bank Stadium",
+      "Street": "1101 Russell St",
+      "City": "Baltimore",
+      "State": "MD",
+      "Zip": "21230"
+    },
+    "Logo": "content/logos/Baltimore_Ravens_logo.svg"
+  },
+  {
+    "Id": "57",
+    "Location": "Cincinnati",
+    "Name": "Bengals",
+    "Abbreviation": "CIN",
+    "Conference": "AFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "Paul Brown Stadium",
+      "Street": "1 Paul Brown Stadium",
+      "City": "Cincinnati",
+      "State": "OH",
+      "Zip": "45202"
+    },
+    "Logo": "content/logos/Cincinnati_Bengals_logo.svg"
+  },
+  {
+    "Id": "58",
+    "Location": "Cleveland",
+    "Name": "Browns",
+    "Abbreviation": "CLE",
+    "Conference": "AFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "FirstEnergy Stadium",
+      "Street": "100 Alfred Lerner Way",
+      "City": "Cleveland",
+      "State": "OH",
+      "Zip": "44114"
+    },
+    "Logo": "content/logos/Cleveland_Browns_logo.svg"
+  },
+  {
+    "Id": "59",
+    "Location": "Pittsburgh",
+    "Name": "Steelers",
+    "Abbreviation": "PIT",
+    "Conference": "AFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "Heinz Field",
+      "Street": "100 Art Rooney Ave",
+      "City": "Pittsburgh",
+      "State": "PA",
+      "Zip": "15212"
+    },
+    "Logo": "content/logos/Pittsburgh_Steelers_logo.svg"
+  },
+  {
+    "Id": "60",
+    "Location": "Chicago",
+    "Name": "Bears",
+    "Abbreviation": "CHI",
+    "Conference": "NFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "Soldier Field",
+      "Street": "1410 Museum Campus Dr",
+      "City": "Chicago",
+      "State": "IL",
+      "Zip": "60605"
+    },
+    "Logo": "content/logos/Chicago_Bears_logo.svg"
+  },
+  {
+    "Id": "61",
+    "Location": "Detroit",
+    "Name": "Lions",
+    "Abbreviation": "DET",
+    "Conference": "NFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "Ford Field",
+      "Street": "2000 Brush St",
+      "City": "Detroit",
+      "State": "MI",
+      "Zip": "48226"
+    },
+    "Logo": "content/logos/Detroit_Lions_logo.svg"
+  },
+  {
+    "Id": "62",
+    "Location": "Green Bay",
+    "Name": "Packers",
+    "Abbreviation": "GB",
+    "Conference": "NFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "Lambeau Field",
+      "Street": "1265 Lombardi Ave",
+      "City": "Green_Bay",
+      "State": "WI",
+      "Zip": "54304"
+    },
+    "Logo": "content/logos/Green_Bay_Packers_logo.svg"
+  },
+  {
+    "Id": "63",
+    "Location": "Minnesota",
+    "Name": "Vikings",
+    "Abbreviation": "MIN",
+    "Conference": "NFC",
+    "Division": "North",
+    "Stadium": {
+      "Name": "TCF Bank Stadium",
+      "Street": "420 SE 23rd Ave",
+      "City": "Minneapolis",
+      "State": "MN",
+      "Zip": "55455"
+    },
+    "Logo": "content/logos/Minnesota_Vikings_logo.svg"
+  },
+  {
+    "Id": "64",
+    "Location": "Houston",
+    "Name": "Texans",
+    "Abbreviation": "HOU",
+    "Conference": "AFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "NRG Stadium",
+      "Street": "NRG Pkwy",
+      "City": "Houston",
+      "State": "TX",
+      "Zip": "77054"
+    },
+    "Logo": "content/logos/Houston_Texans_logo.svg"
+  },
+  {
+    "Id": "65",
+    "Location": "Indianapolis",
+    "Name": "Colts",
+    "Abbreviation": "IND",
+    "Conference": "AFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Lucas Oil Stadium",
+      "Street": "500 S Capitol Ave",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46225"
+    },
+    "Logo": "content/logos/Indianapolis_Colts_logo.svg"
+  },
+  {
+    "Id": "66",
+    "Location": "Jacksonville",
+    "Name": "Jaguars",
+    "Abbreviation": "JAX",
+    "Conference": "AFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "EverBank Field",
+      "Street": "1 Everbank Field Dr",
+      "City": "Jacksonville",
+      "State": "FL",
+      "Zip": "32202"
+    },
+    "Logo": "content/logos/Jacksonville_Jaguars_logo.svg"
+  },
+  {
+    "Id": "67",
+    "Location": "Tennessee",
+    "Name": "Titans",
+    "Abbreviation": "TEN",
+    "Conference": "AFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Nissan Stadium",
+      "Street": "1 Titans Way",
+      "City": "Nashville",
+      "State": "TN",
+      "Zip": "37213"
+    },
+    "Logo": "content/logos/Tennessee_Titans_logo.svg"
+  },
+  {
+    "Id": "68",
+    "Location": "Atlanta",
+    "Name": "Falcons",
+    "Abbreviation": "ATL",
+    "Conference": "NFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Georgia Dome",
+      "Street": "1 Georgia Dome Dr",
+      "City": "Atlanta",
+      "State": "GA",
+      "Zip": "30313"
+    },
+    "Logo": "content/logos/Atlanta_Falcons_logo.svg"
+  },
+  {
+    "Id": "69",
+    "Location": "Carolina",
+    "Name": "Panthers",
+    "Abbreviation": "CAR",
+    "Conference": "NFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Bank of America Stadium",
+      "Street": "800 S Mint St",
+      "City": "Charlotte",
+      "State": "NC",
+      "Zip": "28202"
+    },
+    "Logo": "content/logos/Carolina_Panthers_logo.svg"
+  },
+  {
+    "Id": "70",
+    "Location": "New Orleans",
+    "Name": "Saints",
+    "Abbreviation": "NO",
+    "Conference": "NFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Mercedes-Benz Superdome",
+      "Street": "1500 Sugar Bowl Dr",
+      "City": "New_Orleans",
+      "State": "LA",
+      "Zip": "70112"
+    },
+    "Logo": "content/logos/New_Orleans_Saints_logo.svg"
+  },
+  {
+    "Id": "71",
+    "Location": "Tampa Bay",
+    "Name": "Bucaneers",
+    "Abbreviation": "TB",
+    "Conference": "NFC",
+    "Division": "South",
+    "Stadium": {
+      "Name": "Raymond James Stadium",
+      "Street": "4201 N Dale Mabry Hwy",
+      "City": "Tampa",
+      "State": "FL",
+      "Zip": "33607"
+    },
+    "Logo": "content/logos/Tampa_Bay_Buccaneers_logo.svg"
+  },
+  {
+    "Id": "72",
+    "Location": "Denver",
+    "Name": "Broncos",
+    "Abbreviation": "DEN",
+    "Conference": "AFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "Sports Authority Field at Mile High",
+      "Street": "1701 Bryant St",
+      "City": "Denver",
+      "State": "CO",
+      "Zip": "80204"
+    },
+    "Logo": "content/logos/Denver_Broncos_logo.svg"
+  },
+  {
+    "Id": "73",
+    "Location": "Kansas City",
+    "Name": "Chiefs",
+    "Abbreviation": "KC",
+    "Conference": "AFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "Arrowhead Stadium",
+      "Street": "1 Arrowhead Dr",
+      "City": "Kansas_City",
+      "State": "MO",
+      "Zip": "64129"
+    },
+    "Logo": "content/logos/Kansas_City_Chiefs_logo.svg"
+  },
+  {
+    "Id": "74",
+    "Location": "Oakland",
+    "Name": "Raiders",
+    "Abbreviation": "OAK",
+    "Conference": "AFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "O.co Coliseum",
+      "Street": "7000 Coliseum Way",
+      "City": "Oakland",
+      "State": "CA",
+      "Zip": "94621"
+    },
+    "Logo": "content/logos/Oakland_Raiders_logo.svg"
+  },
+  {
+    "Id": "75",
+    "Location": "San Diego",
+    "Name": "Chargers",
+    "Abbreviation": "SD",
+    "Conference": "AFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "Qualcomm Stadium",
+      "Street": "9449 Friars Rd",
+      "City": "San_Diego",
+      "State": "CA",
+      "Zip": "92108"
+    },
+    "Logo": "content/logos/San_Diego_Chargers_logo.svg"
+  },
+  {
+    "Id": "76",
+    "Location": "Arizona",
+    "Name": "Cardinals",
+    "Abbreviation": "ARI",
+    "Conference": "NFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "University of Phoenix Stadium",
+      "Street": "1 Cardinals Dr",
+      "City": "Glendale",
+      "State": "AZ",
+      "Zip": "85305"
+    },
+    "Logo": "content/logos/Arizona_Cardinals_logo.svg"
+  },
+  {
+    "Id": "77",
+    "Location": "Los Angeles",
+    "Name": "Rams",
+    "Abbreviation": "LA",
+    "Conference": "NFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "Los Angeles Memorial Coliseum",
+      "Street": "3911 S Figueroa St",
+      "City": "Los_Angeles",
+      "State": "CA",
+      "Zip": "90037"
+    },
+    "Logo": "content/logos/Los_Angeles_Rams_logo.svg"
+  },
+  {
+    "Id": "78",
+    "Location": "San Francisco",
+    "Name": "49ers",
+    "Abbreviation": "SF",
+    "Conference": "NFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "Levi's Stadium",
+      "Street": "4900 Marie P DeBartolo Way",
+      "City": "Santa_Clara",
+      "State": "CA",
+      "Zip": "95054"
+    },
+    "Logo": "content/logos/San_Francisco_49ers_logo.svg"
+  },
+  {
+    "Id": "79",
+    "Location": "Seattle",
+    "Name": "Seahawks",
+    "Abbreviation": "SEA",
+    "Conference": "NFC",
+    "Division": "West",
+    "Stadium": {
+      "Name": "CenturyLink Field",
+      "Street": "800 Occidental Ave S",
+      "City": "Seattle",
+      "State": "WA",
+      "Zip": "98134"
+    },
+    "Logo": "content/logos/Seattle_Seahawks_logo.svg"
+  }
+]

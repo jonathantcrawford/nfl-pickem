@@ -1,0 +1,32 @@
+﻿<div class="col-md-6 col-md-offset-3">
+    <h1>Hi {{currentUser.firstName}}!</h1>
+
+    <!-- <app-weather></app-weather> -->
+    <p>You're logged in with Angular 2!!</p>
+
+    <app-weather></app-weather> 
+
+    <!-- team data -->
+    <div *ngIf="teams">
+        <li *ngFor="let team of teams">
+            {{ team.Name }}
+        </li>
+    </div>
+
+    <!-- game data-->
+    <div *ngIf="games">
+        <li *ngFor="let game of games.fullgameschedule.gameentry">
+            {{ game?.id }}
+        </li>
+    </div>
+
+
+    <h3>All registered users:</h3>
+    <ul>
+        <li *ngFor="let user of users">
+            {{user.username}} ({{user.firstName}} {{user.lastName}})
+            - <a (click)="deleteUser(user.id)">Delete</a>
+        </li>
+    </ul>
+    <p><a [routerLink]="['/login']">Logout</a></p>
+</div>
