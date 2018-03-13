@@ -1,7 +1,7 @@
 ﻿<div id="home-component-container" class="container">
     <h1>Hi {{currentUser.firstName}}!</h1>
 
-    <!-- <app-weather></app-weather> -->
+    
     <p>You're logged in with Angular 2!!</p>
 
     <form>
@@ -40,19 +40,37 @@
 
     <div id="games-component-container" *ngIf="teams && season" class="container">
 
+        <mat-list>
+
             <div *ngFor="let game of (season | schedulePipe:teams:{week: selectedWeek}:{Conference: selectedConference, Division: selectedDivision})">
-                    <li>{{ game | json }}</li>
+    
+                <mat-list-item role="listitem">
+                    <mat-card class="example-card">
+                            <mat-card-header>
+                                <div mat-card-avatar class="example-header-image"></div>
+                                <mat-card-title>{{ game.awayTeam.Name + ' @ ' + game.homeTeam.Name }}</mat-card-title>
+                                <mat-card-subtitle>{{ teams[0].Logo }}</mat-card-subtitle>
+                            </mat-card-header>
+                            <img mat-card-image src="{{ teams[0].Logo }}" alt="Photo of a Shiba Inu">
+                            <mat-card-content></mat-card-content>
+                            <mat-card-actions>
+                                <button mat-button>LIKE</button>
+                                <button mat-button>SHARE</button>
+                            </mat-card-actions>
+                        </mat-card>
+                </mat-list-item>
+                
+                <mat-divider></mat-divider>
+
             </div>
-
-            <br>
-
-
-                  
-            <ng-template #loading>
-            Loading stuff...
-            </ng-template>
+        
+        </mat-list>
 
     </div>
+
+
+
+    <!-- <app-weather></app-weather> -->
 
 
 

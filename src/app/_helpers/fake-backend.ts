@@ -60,7 +60,7 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                     return Observable.of(new HttpResponse({ status: 200, body: users }));
                 } else {
                     // return 401 not authorised if token is null or invalid
-                    return Observable.throw('Unauthorised');
+                    return Observable.throw('Unauthorized');
                 }
             }
 
@@ -78,7 +78,7 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                     return Observable.of(new HttpResponse({ status: 200, body: user }));
                 } else {
                     // return 401 not authorised if token is null or invalid
-                    return Observable.throw('Unauthorised');
+                    return Observable.throw('Unauthorized');
                 }
             }
 
@@ -124,7 +124,7 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                     return Observable.of(new HttpResponse({ status: 200 }));
                 } else {
                     // return 401 not authorised if token is null or invalid
-                    return Observable.throw('Unauthorised');
+                    return Observable.throw('Unauthorized');
                 }
             }
 
@@ -139,7 +139,7 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                     return Observable.of(new HttpResponse({ status: 200 }));
                 } else {
                     // return 401 not authorised if token is null or invalid
-                    return Observable.throw('Unauthorised');
+                    return Observable.throw('Unauthorized');
                 }
             }
 
@@ -150,17 +150,30 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                 // check for fake auth token in header and return user if valid, this security is implemented server side in a real application
                 if (request.headers.get('Authorization') === 'Bearer fake-jwt-token') {
 
+                    const apiKey = 'b846da4e2a007c56d9dda9694376f2b2';
+                    const city = 'London';
+                    const countrycode = 'uk';
+
+                    const apiURL = (
+                        'http://api.openweathermap.org/data/2.5/weather?q='
+                        + city
+                        + ','
+                        + countrycode
+                        + '&APPID='
+                        + apiKey);
+
                     const _headers = new HttpHeaders();
+
                     request = request.clone({
-                        url: 'http://date.jsontest.com',
+                        url: apiURL,
                         method: 'GET',
                         headers: _headers
                     });
 
-                    return next.handle(request);
+
                 } else {
                     // return 401 not authorised if token is null or invalid
-                    return Observable.throw('Unauthorised');
+                    return Observable.throw('Unauthorized');
                 }
             }
 
