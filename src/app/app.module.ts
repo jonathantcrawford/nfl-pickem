@@ -24,7 +24,7 @@ import {
     AuthenticationService,
     UserService,
     TeamService,
-    GameScheduleService } from './_services/index';
+    GameSeasonService } from './_services/index';
 
 import { HomeComponent } from './home/index';
 import { LoginComponent } from './login/index';
@@ -32,8 +32,7 @@ import { RegisterComponent } from './register/index';
 import { WeatherComponent } from './weather/weather.component';
 
 
-import { GamePipe } from './_pipes/game.pipe';
-import { TeamPipe } from './_pipes/team.pipe';
+import { SchedulePipe } from './_pipes/schedule.pipe';
 
 
 // Angular Material Imports
@@ -122,8 +121,7 @@ import {
         LoginComponent,
         RegisterComponent,
         WeatherComponent,
-        GamePipe,
-        TeamPipe
+        SchedulePipe
     ],
     providers: [
         AuthGuard,
@@ -131,7 +129,7 @@ import {
         AuthenticationService,
         UserService,
         TeamService,
-        GameScheduleService,
+        GameSeasonService,
         {
             provide: HTTP_INTERCEPTORS,
             useClass: JwtInterceptor,

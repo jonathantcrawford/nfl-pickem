@@ -1,4 +1,4 @@
-export class GameSchedule {
+export class GameSeason {
     public fullgameschedule?: FullGameSchedule;
     constructor() {
       this.fullgameschedule = new FullGameSchedule();

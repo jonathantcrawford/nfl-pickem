@@ -38,20 +38,19 @@
     </form>
 
 
-    <div id="games-component-container" *ngIf="teams && games" class="container">
+    <div id="games-component-container" *ngIf="teams && season" class="container">
 
-            <li>{{ (teams | teamPipe:{Conference: selectedConference, Division: selectedDivision}) | json}}</li>
-
-            <br>
-            
-            <div *ngFor="let game of (games.fullgameschedule.gameentry | gamePipe:{week: selectedWeek})">
-                <li>{{ game | json}}</li>
+            <div *ngFor="let game of (season | schedulePipe:teams:{week: selectedWeek}:{Conference: selectedConference, Division: selectedDivision})">
+                    <li>{{ game | json }}</li>
             </div>
 
+            <br>
+
+
                   
-                  <ng-template #loading>
-                    Loading stuff...
-                  </ng-template>
+            <ng-template #loading>
+            Loading stuff...
+            </ng-template>
 
     </div>
 

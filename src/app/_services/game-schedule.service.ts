@@ -3,16 +3,16 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs/rx';
 import 'rxjs/add/operator/map';
 
-import { GameSchedule } from '../_models/index';
+import { GameSeason } from '../_models/index';
 
 
 @Injectable()
-export class GameScheduleService {
+export class GameSeasonService {
   constructor(private http: HttpClient) { }
 
 
   getGames() {
-    return this.http.get<GameSchedule>('./assets/fake-backend.assets/data/2016_full_game_schedule.json');
+    return this.http.get<GameSeason>('./assets/fake-backend.assets/data/2016_full_game_schedule.json');
   }
 
 

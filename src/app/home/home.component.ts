@@ -6,8 +6,8 @@ import { UserService } from '../_services/index';
 import { Team  } from '../_models/index';
 import { TeamService } from '../_services/index';
 
-import { GameSchedule  } from '../_models/index';
-import { GameScheduleService } from '../_services/index';
+import { GameSeason  } from '../_models/index';
+import { GameSeasonService } from '../_services/index';
 
 
 @Component({
@@ -20,7 +20,7 @@ export class HomeComponent implements OnInit {
     users: User[] = [];
 
     teams: Team[];
-    games: GameSchedule;
+    season: GameSeason;
 
     selectedWeek = 1;
     weeks = [
@@ -63,7 +63,7 @@ export class HomeComponent implements OnInit {
     constructor(
         private userService: UserService,
         private teamService: TeamService,
-        private gameScheduleService: GameScheduleService) {
+        private gameScheduleService: GameSeasonService) {
         this.currentUser = JSON.parse(localStorage.getItem('currentUser'));
     }
 
@@ -96,7 +96,7 @@ export class HomeComponent implements OnInit {
         this.gameScheduleService.getGames()
         .subscribe(
             res => {
-              this.games = res;
+              this.season = res;
             },
             err => {
               console.log('Error occured');
