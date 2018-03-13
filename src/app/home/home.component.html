@@ -1,0 +1,68 @@
+﻿<div id="home-component-container" class="container">
+    <h1>Hi {{currentUser.firstName}}!</h1>
+
+    <!-- <app-weather></app-weather> -->
+    <p>You're logged in with Angular 2!!</p>
+
+    <form>
+        <!-- Week Selection -->
+        <mat-form-field>
+                <mat-select placeholder="Sort by Week" [(ngModel)]="selectedWeek" name="theFormsSelectedWeek">
+                    <mat-option *ngFor="let week of weeks" [value]="week.selectionValue">
+                    {{week.viewSelection}}
+                    </mat-option>
+                </mat-select>
+                </mat-form-field>
+                <p> Selected value: {{selectedWeek}} </p>
+
+        <!-- Conference Selection -->
+        <mat-form-field>
+                <mat-select placeholder="Sort by Conference" [(ngModel)]="selectedConference" name="theFormsSelectedConference">
+                    <mat-option *ngFor="let conference of conferences" [value]="conference.selectionValue">
+                    {{conference.viewSelection}}
+                    </mat-option>
+                </mat-select>
+                </mat-form-field>
+                <p> Selected value: {{selectedConference}} </p>
+
+        <!-- Division Selection -->
+        <mat-form-field>
+                <mat-select placeholder="Sort by Division" [(ngModel)]="selectedDivision" name="theFormsSelectedDivision">
+                    <mat-option *ngFor="let division of divisions" [value]="division.selectionValue">
+                    {{division.viewSelection}}
+                    </mat-option>
+                </mat-select>
+                </mat-form-field>
+                <p> Selected value: {{selectedDivision}} </p>
+
+    </form>
+
+
+    <div id="games-component-container" *ngIf="teams && games" class="container">
+
+            <li>{{ (teams | teamPipe:{Conference: selectedConference, Division: selectedDivision}) | json}}</li>
+
+            <br>
+            
+            <div *ngFor="let game of (games.fullgameschedule.gameentry | gamePipe:{week: selectedWeek})">
+                <li>{{ game | json}}</li>
+            </div>
+
+                  
+                  <ng-template #loading>
+                    Loading stuff...
+                  </ng-template>
+
+    </div>
+
+
+
+    <h3>All registered users:</h3>
+    <ul>
+        <li *ngFor="let user of users">
+            {{user.username}} ({{user.firstName}} {{user.lastName}})
+            - <a (click)="deleteUser(user.id)">Delete</a>
+        </li>
+    </ul>
+    <p><a [routerLink]="['/login']">Logout</a></p>
+</div>
