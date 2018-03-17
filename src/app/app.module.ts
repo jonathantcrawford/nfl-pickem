@@ -70,6 +70,8 @@ import {
     MatToolbarModule,
     MatTooltipModule
   } from '@angular/material';
+import { GameEntryComponent } from './game-entry/game-entry.component';
+import { TeamComponent } from './team/team.component';
 
 
 @NgModule({
@@ -121,7 +123,9 @@ import {
         LoginComponent,
         RegisterComponent,
         WeatherComponent,
-        SchedulePipe
+        SchedulePipe,
+        GameEntryComponent,
+        TeamComponent
     ],
     providers: [
         AuthGuard,

@@ -10,6 +10,8 @@ import { GameSeason  } from '../_models/index';
 import { GameSeasonService } from '../_services/index';
 
 
+
+
 @Component({
     moduleId: module.id,
     templateUrl: 'home.component.html',
@@ -20,7 +22,6 @@ export class HomeComponent implements OnInit {
     currentUser: User;
     users: User[] = [];
 
-    teams: Team[];
     season: GameSeason;
 
     selectedWeek = 1;
@@ -70,7 +71,6 @@ export class HomeComponent implements OnInit {
 
     ngOnInit() {
         this.loadAllUsers();
-        this.loadTeams();
         this.loadGames();
     }
 
@@ -80,17 +80,6 @@ export class HomeComponent implements OnInit {
 
     private loadAllUsers() {
         this.userService.getAll().subscribe(users => { this.users = users; });
-    }
-
-    loadTeams() {
-        this.teamService.getTeams()
-        .subscribe(
-            res => {
-              this.teams = res;
-            },
-            err => {
-              console.log('Error occured');
-            });
     }
 
     loadGames() {
@@ -105,3 +94,14 @@ export class HomeComponent implements OnInit {
     }
 
 }
+
+// + week form model
+//      + displays team info
+//      + displays team logos
+//      + displays weather info
+//      + animate selection
+//      + resets on page load || new week selection
+//      + alert when form submitted || form is invalid
+
+// + retrieve weather data save it to back end
+//      + getWeather using weather service

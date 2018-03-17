@@ -1,6 +1,6 @@
 [
   {
-    "Id": "48",
+    "ID": "48",
     "Location": "Buffalo",
     "Name": "Bills",
     "Abbreviation": "BUF",
@@ -16,7 +16,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Buffalo_Bills_logo.svg"
   },
   {
-    "Id": "49",
+    "ID": "49",
     "Location": "Miami",
     "Name": "Dolphins",
     "Abbreviation": "MIA",
@@ -32,7 +32,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Miami_Dolphins_logo.svg"
   },
   {
-    "Id": "50",
+    "ID": "50",
     "Location": "New England",
     "Name": "Patriots",
     "Abbreviation": "NE",
@@ -48,7 +48,7 @@
     "Logo": "./assets/fake-backend.assets/logos/New_England_Patriots_logo.svg"
   },
   {
-    "Id": "51",
+    "ID": "51",
     "Location": "New York",
     "Name": "Jets",
     "Abbreviation": "NYJ",
@@ -64,7 +64,7 @@
     "Logo": "./assets/fake-backend.assets/logos/New_York_Jets_logo.svg"
   },
   {
-    "Id": "52",
+    "ID": "52",
     "Location": "Dallas",
     "Name": "Cowboys",
     "Abbreviation": "DAL",
@@ -80,7 +80,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Dallas_Cowboys_logo.svg"
   },
   {
-    "Id": "53",
+    "ID": "53",
     "Location": "New York",
     "Name": "Giants",
     "Abbreviation": "NYG",
@@ -96,7 +96,7 @@
     "Logo": "./assets/fake-backend.assets/logos/New_York_Giants_logo.svg"
   },
   {
-    "Id": "54",
+    "ID": "54",
     "Location": "Philadelphia",
     "Name": "Eagles",
     "Abbreviation": "PHI",
@@ -112,7 +112,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Philadelphia_Eagles_logo.svg"
   },
   {
-    "Id": "55",
+    "ID": "55",
     "Location": "Washington",
     "Name": "Redskins",
     "Abbreviation": "WAS",
@@ -128,7 +128,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Washington_Redskins_logo.svg"
   },
   {
-    "Id": "56",
+    "ID": "56",
     "Location": "Baltimore",
     "Name": "Ravens",
     "Abbreviation": "BAL",
@@ -144,7 +144,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Baltimore_Ravens_logo.svg"
   },
   {
-    "Id": "57",
+    "ID": "57",
     "Location": "Cincinnati",
     "Name": "Bengals",
     "Abbreviation": "CIN",
@@ -160,7 +160,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Cincinnati_Bengals_logo.svg"
   },
   {
-    "Id": "58",
+    "ID": "58",
     "Location": "Cleveland",
     "Name": "Browns",
     "Abbreviation": "CLE",
@@ -176,7 +176,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Cleveland_Browns_logo.svg"
   },
   {
-    "Id": "59",
+    "ID": "59",
     "Location": "Pittsburgh",
     "Name": "Steelers",
     "Abbreviation": "PIT",
@@ -192,7 +192,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Pittsburgh_Steelers_logo.svg"
   },
   {
-    "Id": "60",
+    "ID": "60",
     "Location": "Chicago",
     "Name": "Bears",
     "Abbreviation": "CHI",
@@ -208,7 +208,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Chicago_Bears_logo.svg"
   },
   {
-    "Id": "61",
+    "ID": "61",
     "Location": "Detroit",
     "Name": "Lions",
     "Abbreviation": "DET",
@@ -224,7 +224,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Detroit_Lions_logo.svg"
   },
   {
-    "Id": "62",
+    "ID": "62",
     "Location": "Green Bay",
     "Name": "Packers",
     "Abbreviation": "GB",
@@ -240,7 +240,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Green_Bay_Packers_logo.svg"
   },
   {
-    "Id": "63",
+    "ID": "63",
     "Location": "Minnesota",
     "Name": "Vikings",
     "Abbreviation": "MIN",
@@ -256,7 +256,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Minnesota_Vikings_logo.svg"
   },
   {
-    "Id": "64",
+    "ID": "64",
     "Location": "Houston",
     "Name": "Texans",
     "Abbreviation": "HOU",
@@ -272,7 +272,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Houston_Texans_logo.svg"
   },
   {
-    "Id": "65",
+    "ID": "65",
     "Location": "Indianapolis",
     "Name": "Colts",
     "Abbreviation": "IND",
@@ -288,7 +288,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Indianapolis_Colts_logo.svg"
   },
   {
-    "Id": "66",
+    "ID": "66",
     "Location": "Jacksonville",
     "Name": "Jaguars",
     "Abbreviation": "JAX",
@@ -304,7 +304,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Jacksonville_Jaguars_logo.svg"
   },
   {
-    "Id": "67",
+    "ID": "67",
     "Location": "Tennessee",
     "Name": "Titans",
     "Abbreviation": "TEN",
@@ -320,7 +320,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Tennessee_Titans_logo.svg"
   },
   {
-    "Id": "68",
+    "ID": "68",
     "Location": "Atlanta",
     "Name": "Falcons",
     "Abbreviation": "ATL",
@@ -336,7 +336,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Atlanta_Falcons_logo.svg"
   },
   {
-    "Id": "69",
+    "ID": "69",
     "Location": "Carolina",
     "Name": "Panthers",
     "Abbreviation": "CAR",
@@ -352,7 +352,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Carolina_Panthers_logo.svg"
   },
   {
-    "Id": "70",
+    "ID": "70",
     "Location": "New Orleans",
     "Name": "Saints",
     "Abbreviation": "NO",
@@ -368,7 +368,7 @@
     "Logo": "./assets/fake-backend.assets/logos/New_Orleans_Saints_logo.svg"
   },
   {
-    "Id": "71",
+    "ID": "71",
     "Location": "Tampa Bay",
     "Name": "Bucaneers",
     "Abbreviation": "TB",
@@ -384,7 +384,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Tampa_Bay_Buccaneers_logo.svg"
   },
   {
-    "Id": "72",
+    "ID": "72",
     "Location": "Denver",
     "Name": "Broncos",
     "Abbreviation": "DEN",
@@ -400,7 +400,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Denver_Broncos_logo.svg"
   },
   {
-    "Id": "73",
+    "ID": "73",
     "Location": "Kansas City",
     "Name": "Chiefs",
     "Abbreviation": "KC",
@@ -416,7 +416,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Kansas_City_Chiefs_logo.svg"
   },
   {
-    "Id": "74",
+    "ID": "74",
     "Location": "Oakland",
     "Name": "Raiders",
     "Abbreviation": "OAK",
@@ -432,7 +432,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Oakland_Raiders_logo.svg"
   },
   {
-    "Id": "75",
+    "ID": "75",
     "Location": "San Diego",
     "Name": "Chargers",
     "Abbreviation": "SD",
@@ -448,7 +448,7 @@
     "Logo": "./assets/fake-backend.assets/logos/San_Diego_Chargers_logo.svg"
   },
   {
-    "Id": "76",
+    "ID": "76",
     "Location": "Arizona",
     "Name": "Cardinals",
     "Abbreviation": "ARI",
@@ -464,7 +464,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Arizona_Cardinals_logo.svg"
   },
   {
-    "Id": "77",
+    "ID": "77",
     "Location": "Los Angeles",
     "Name": "Rams",
     "Abbreviation": "LA",
@@ -480,7 +480,7 @@
     "Logo": "./assets/fake-backend.assets/logos/Los_Angeles_Rams_logo.svg"
   },
   {
-    "Id": "78",
+    "ID": "78",
     "Location": "San Francisco",
     "Name": "49ers",
     "Abbreviation": "SF",
@@ -496,7 +496,7 @@
     "Logo": "./assets/fake-backend.assets/logos/San_Francisco_49ers_logo.svg"
   },
   {
-    "Id": "79",
+    "ID": "79",
     "Location": "Seattle",
     "Name": "Seahawks",
     "Abbreviation": "SEA",

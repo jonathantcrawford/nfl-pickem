@@ -56,7 +56,7 @@ export class SchedulePipe implements PipeTransform {
               || filteredTeams.some(teamWithThisIdExists, g.homeTeam.ID.toString())) ? true : false);
     }
     function teamWithThisIdExists (t: Team, index: number, array: Team[]) {
-      return (this === t.Id.toString());
+      return (this === t.ID.toString());
     }
 
     return filteredGameEntries;

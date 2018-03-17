@@ -1,3 +1,5 @@
+import { Team } from './team';
+
 export class GameSeason {
     public fullgameschedule?: FullGameSchedule;
     constructor() {
@@ -13,8 +15,8 @@ export class GameSeason {
     }
   }
   export class GameEntry {
-    public awayTeam: AwayTeamOrHomeTeam;
-    public homeTeam: AwayTeamOrHomeTeam;
+    public awayTeam: Team;
+    public homeTeam: Team;
 
     constructor(
       public id: string,
@@ -27,16 +29,7 @@ export class GameSeason {
       public originalTime?: null,
       public delayedOrPostponedReason?: null,
     ) {
-      this.awayTeam = new AwayTeamOrHomeTeam();
-      this.homeTeam = new AwayTeamOrHomeTeam();
+      this.awayTeam = new Team();
+      this.homeTeam = new Team();
     }
-  }
-  export class AwayTeamOrHomeTeam {
-    constructor(
-      public ID?: string,
-      public City?: string,
-      public Name?: string,
-      public Abbreviation?: string
-    ) {}
-
   }

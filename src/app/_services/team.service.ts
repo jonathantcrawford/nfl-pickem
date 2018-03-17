@@ -8,11 +8,27 @@ import { Team } from '../_models/index';
 
 @Injectable()
 export class TeamService {
+
+  nflteams: Team[];
+
   constructor(private http: HttpClient) {
+    this.getTeams();
   }
 
   getTeams() {
-    return this.http.get<Team[]>('./assets/fake-backend.assets/data/teams.json');
+    this.http.get<Team[]>('./assets/fake-backend.assets/data/teams.json')
+    .subscribe(
+      res => {
+        this.nflteams = res;
+      },
+      err => {
+        console.log('Error occured');
+      });
   }
+
+  getTeamFromID(id: string): Team {
+    return this.nflteams.find(function (nflteam) { return nflteam.ID === id; });
+  }
+
 
 }
