@@ -145,18 +145,21 @@ export class FakeBackendInterceptor implements HttpInterceptor {
 
 
             // RESTful API
-            if (request.url.match(/\/weather/) && request.method === 'GET') {
+            if (request.url.match(/\/api\/weather\/\d+$/) && request.method === 'GET') {
                 // tslint:disable-next-line:max-line-length
                 // check for fake auth token in header and return user if valid, this security is implemented server side in a real application
                 if (request.headers.get('Authorization') === 'Bearer fake-jwt-token') {
 
+                    const urlParts = request.url.split('/');
+                    const zip = urlParts[urlParts.length - 1];
+
+
                     const apiKey = 'b846da4e2a007c56d9dda9694376f2b2';
-                    const city = 'London';
-                    const countrycode = 'uk';
+                    const countrycode = 'us';
 
                     const apiURL = (
-                        'http://api.openweathermap.org/data/2.5/weather?q='
-                        + city
+                        'http://api.openweathermap.org/data/2.5/weather?zip='
+                        + zip
                         + ','
                         + countrycode
                         + '&APPID='
@@ -170,7 +173,8 @@ export class FakeBackendInterceptor implements HttpInterceptor {
                         headers: _headers
                     });
 
-
+                    console.log(zip);
+                    // return Observable.of(new HttpResponse({ status: 200 }));
                 } else {
                     // return 401 not authorised if token is null or invalid
                     return Observable.throw('Unauthorized');

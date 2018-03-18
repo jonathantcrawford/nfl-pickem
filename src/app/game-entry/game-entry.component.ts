@@ -1,9 +1,14 @@
 import { Component, OnInit, Input} from '@angular/core';
 
+
+
+import { GameEntry } from '../_models/index';
+
 import { Team } from '../_models/index';
 import { TeamService } from '../_services/index';
 
-import { GameEntry } from '../_models/index';
+import { Weather } from '../_models/index';
+import { WeatherService } from '../_services/index';
 
 
 @Component({
@@ -20,14 +25,20 @@ export class GameEntryComponent implements OnInit {
   awayTeam: Team;
   homeTeam: Team;
 
+  weather: Weather;
 
 
-  constructor(private teamService: TeamService) {
+
+  constructor(
+    private teamService: TeamService,
+    private weatherService: WeatherService) {
   }
 
   ngOnInit() {
-    this.awayTeam = this.teamService.getTeamFromID(this.gameentry.awayTeam.ID);
-    this.homeTeam = this.teamService.getTeamFromID(this.gameentry.homeTeam.ID);
+    this.awayTeam = this.teamService.getTeamWithID(this.gameentry.awayTeam.ID);
+    this.homeTeam = this.teamService.getTeamWithID(this.gameentry.homeTeam.ID);
+
+    this.weather = this.weatherService.getWeatherAt(this.homeTeam.Stadium.Zip);
   }
 
 

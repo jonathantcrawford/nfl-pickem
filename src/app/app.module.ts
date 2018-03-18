@@ -24,6 +24,7 @@ import {
     AuthenticationService,
     UserService,
     TeamService,
+    WeatherService,
     GameSeasonService } from './_services/index';
 
 import { HomeComponent } from './home/index';
@@ -134,6 +135,7 @@ import { TeamComponent } from './team/team.component';
         UserService,
         TeamService,
         GameSeasonService,
+        WeatherService,
         {
             provide: HTTP_INTERCEPTORS,
             useClass: JwtInterceptor,

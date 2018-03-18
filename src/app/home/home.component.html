@@ -18,13 +18,13 @@
     <div class="row">
 
 
-        <!-- <app-weather></app-weather> -->
+        
         <div class="col s2">
             <form>
                     <!-- Week Selection -->
                     <mat-form-field>
                             <mat-select placeholder="Week" [(ngModel)]="selectedWeek" name="theFormsSelectedWeek">
-                                <mat-option *ngFor="let week of weeks" [value]="week.selectionValue">
+                                <mat-option *ngFor="let week of gameSeasonService.weeks" [value]="week.selectionValue">
                                 {{week.viewSelection}}
                                 </mat-option>
                             </mat-select>
@@ -34,7 +34,7 @@
                     <!-- Conference Selection -->
                     <mat-form-field>
                             <mat-select placeholder="Conference" [(ngModel)]="selectedConference" name="theFormsSelectedConference">
-                                <mat-option *ngFor="let conference of conferences" [value]="conference.selectionValue">
+                                <mat-option *ngFor="let conference of teamService.conferences" [value]="conference.selectionValue">
                                 {{conference.viewSelection}}
                                 </mat-option>
                             </mat-select>
@@ -44,7 +44,7 @@
                     <!-- Division Selection -->
                     <mat-form-field>
                             <mat-select placeholder="Division" [(ngModel)]="selectedDivision" name="theFormsSelectedDivision">
-                                <mat-option *ngFor="let division of divisions" [value]="division.selectionValue">
+                                <mat-option *ngFor="let division of teamService.divisions" [value]="division.selectionValue">
                                 {{division.viewSelection}}
                                 </mat-option>
                             </mat-select>
@@ -58,7 +58,7 @@
 
                 <ul class="collection z-depth-4">
 
-                    <li *ngFor="let game of (season | schedulePipe:teamService.nflteams:{week: selectedWeek}:{Conference: selectedConference, Division: selectedDivision})"
+                    <li *ngFor="let game of (gameSeasonService.season | schedulePipe:teamService.nflteams:{week: selectedWeek}:{Conference: selectedConference, Division: selectedDivision})"
                         class="collection-item" >
                         <app-game-entry [gameentry]="game"></app-game-entry>
                     </li>

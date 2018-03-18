@@ -1,9 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 
-import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs/Observable';
-import 'rxjs/add/operator/map';
-
+import { Weather } from '../_models/index';
 
 @Component({
   selector: 'app-weather',
@@ -12,22 +9,13 @@ import 'rxjs/add/operator/map';
 })
 export class WeatherComponent implements OnInit {
 
+  @Input()
+  weather: Weather;
 
-  restfulData: any = {};
-
-  constructor(private http: HttpClient) {
+  constructor() {
   }
 
   ngOnInit() {
-    this.getWeather()
-    .subscribe((response: any) => {
-      this.restfulData = response,
-      console.log(response);
-    });
-  }
-
-  getWeather() {
-    return this.http.get('/weather');
   }
 
 }
