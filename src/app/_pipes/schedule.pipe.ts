@@ -1,7 +1,6 @@
 import { Pipe, PipeTransform } from '@angular/core';
 
-import { Team } from '../_models/index';
-import { GameSeason, GameEntry } from '../_models/index';
+import { Season, GameEntry, Team } from '../_models/index';
 
 
 @Pipe({
@@ -9,10 +8,14 @@ import { GameSeason, GameEntry } from '../_models/index';
   pure: false
 })
 export class SchedulePipe implements PipeTransform {
-  transform(season: GameSeason, teams: Team[], gameentrySchematic: GameEntry, teamSchematic: Team ): GameEntry[] {
+  transform(season: Season, teams: Team[], gameentrySchematic: any, teamSchematic: any ): GameEntry[] {
     /***********************************************************************/
     // skip piping ransform parameters fail signature requirements
-    if (!season || !teams || !gameentrySchematic || !teamSchematic) { return []; }
+    if (!season || !season.fullgameschedule
+        || !season.fullgameschedule.gameentry
+        || !teams
+        || !gameentrySchematic
+        || !teamSchematic) { return []; }
 
 
     /***********************************************************************/

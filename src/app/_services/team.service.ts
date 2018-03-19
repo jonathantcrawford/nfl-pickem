@@ -1,49 +1,33 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable } from 'rxjs/rx';
+import { Observable } from 'rxjs/Observable';
 import 'rxjs/add/operator/map';
 
+
 import { Team } from '../_models/index';
+
+import { Weather } from '../_models/index';
+import { WeatherService } from '../_services/weather.service';
 
 
 
 @Injectable()
 export class TeamService {
 
-  nflteams: Team[];
 
-  conferences = [
-    {selectionValue: 'Any', viewSelection: 'Any'},
-    {selectionValue: 'AFC', viewSelection: 'AFC'},
-    {selectionValue: 'NFC', viewSelection: 'NFC'}
-  ];
+  constructor(
+    private http: HttpClient) {
 
-  divisions = [
-    {selectionValue: 'Any', viewSelection: 'Any'},
-    {selectionValue: 'East', viewSelection: 'East'},
-    {selectionValue: 'West', viewSelection: 'West'},
-    {selectionValue: 'North', viewSelection: 'North'},
-    {selectionValue: 'South', viewSelection: 'South'}
-  ];
+    }
 
-  constructor(private http: HttpClient) { }
-
-  getTeams(): Observable<Team[]> {
-    return this.http.get<Team[]>('./assets/fake-backend.assets/data/teams.json');
+  getAll(): Observable<Array<Team>>  {
+      return this.http.get<Array<Team>>('/api/teams');
   }
 
-  getZipsOfEachTeam(): string[] {
-    if (!this.nflteams) { return []; }
-
-    const zipsofeachteam = [];
-    this.nflteams.forEach(team => {
-      zipsofeachteam.push(team.Stadium.Zip);
-    });
-    return zipsofeachteam;
-  }
-
-  getTeamWithID(id: string): Team {
-    return this.nflteams.find(function (nflteam) { return nflteam.ID === id; });
+  getTeamWithID(id: Team['ID']): Observable<Team> {
+    return this.getAll()
+      .flatMap(teams => teams
+        .filter(team => team.ID === id));
   }
 
 

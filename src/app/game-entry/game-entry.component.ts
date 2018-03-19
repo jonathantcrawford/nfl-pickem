@@ -1,13 +1,12 @@
-import { Component, OnInit, Input} from '@angular/core';
-
+import { Component, OnInit, Input } from '@angular/core';
+import { Observable } from 'rxjs/Observable';
 
 
 import { GameEntry } from '../_models/index';
-
 import { Team } from '../_models/index';
-import { TeamService } from '../_services/index';
-
 import { Weather } from '../_models/index';
+
+import { TeamService } from '../_services/index';
 import { WeatherService } from '../_services/index';
 
 
@@ -19,14 +18,10 @@ import { WeatherService } from '../_services/index';
 export class GameEntryComponent implements OnInit {
 
 
-  @Input()
-  gameentry: GameEntry;
-
-  awayTeam: Team;
-  homeTeam: Team;
-
-  weather: Weather;
-
+  @Input() gameentry: GameEntry;
+  awayTeam: Observable<Team>;
+  homeTeam: Observable<Team>;
+  weather: Observable<Weather>;
 
 
   constructor(
@@ -37,8 +32,8 @@ export class GameEntryComponent implements OnInit {
   ngOnInit() {
     this.awayTeam = this.teamService.getTeamWithID(this.gameentry.awayTeam.ID);
     this.homeTeam = this.teamService.getTeamWithID(this.gameentry.homeTeam.ID);
-
-    this.weather = this.weatherService.getWeatherAt(this.homeTeam.Stadium.Zip);
+    this.homeTeam
+      .subscribe(team => this.weather = this.weatherService.getStadiumWeather(team));
   }
 
 

@@ -1,13 +1,13 @@
 import { Team } from './team';
 
-export class GameSeason {
+export class Season {
     public fullgameschedule?: FullGameSchedule;
     constructor() {
       this.fullgameschedule = new FullGameSchedule();
     }
   }
   export class FullGameSchedule {
-    public gameentry?: (GameEntry)[] | null;
+    public gameentry?: GameEntry[] | null;
     constructor(
       public lastUpdatedOn?: string
     ) {

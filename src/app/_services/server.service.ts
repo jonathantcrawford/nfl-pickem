@@ -3,19 +3,19 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs/rx';
 import 'rxjs/add/operator/map';
 
-import { Team } from '../_models/index';
 import { Weather } from '../_models/index';
 
 
 @Injectable()
-export class WeatherService {
+export class ServerService {
 
 
   constructor(private http: HttpClient) { }
 
-
-  getStadiumWeather(team: Team): Observable<Weather> {
-    return this.http.get<Weather>('/api/weather/' + team.Stadium.Zip);
+  getWeather(zip: string): Observable<Weather> {
+    return this.http.get<Weather>('/server/weather/' + zip);
   }
+
+
 
 }

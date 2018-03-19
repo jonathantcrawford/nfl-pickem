@@ -24,13 +24,17 @@ import {
     AuthenticationService,
     UserService,
     TeamService,
+    ServerService,
     WeatherService,
-    GameSeasonService } from './_services/index';
+    SeasonService
+    } from './_services/index';
 
 import { HomeComponent } from './home/index';
 import { LoginComponent } from './login/index';
 import { RegisterComponent } from './register/index';
 import { WeatherComponent } from './weather/weather.component';
+import { GameEntryComponent } from './game-entry/game-entry.component';
+import { TeamComponent } from './team/team.component';
 
 
 import { SchedulePipe } from './_pipes/schedule.pipe';
@@ -71,8 +75,7 @@ import {
     MatToolbarModule,
     MatTooltipModule
   } from '@angular/material';
-import { GameEntryComponent } from './game-entry/game-entry.component';
-import { TeamComponent } from './team/team.component';
+
 
 
 @NgModule({
@@ -134,7 +137,7 @@ import { TeamComponent } from './team/team.component';
         AuthenticationService,
         UserService,
         TeamService,
-        GameSeasonService,
+        SeasonService,
         WeatherService,
         {
             provide: HTTP_INTERCEPTORS,
@@ -144,7 +147,8 @@ import { TeamComponent } from './team/team.component';
         // post-authorization
 
         // provider used to create fake backend
-        fakeBackendProvider
+        fakeBackendProvider,
+        ServerService
     ],
     bootstrap: [AppComponent]
 })

@@ -9,8 +9,7 @@ import { Weather } from '../_models/index';
 })
 export class WeatherComponent implements OnInit {
 
-  @Input()
-  weather: Weather;
+  @Input() weather: Weather;
 
   constructor() {
   }

@@ -21,7 +21,11 @@ export class AuthenticationService {
     }
 
     logout() {
-        // remove user from local storage to log user out
+        // remove data from local storage to log user out
+        console.log('...removing local storage');
         localStorage.removeItem('currentUser');
+        localStorage.removeItem('teams');
+        localStorage.removeItem('season');
+        localStorage.removeItem('locations');
     }
 }

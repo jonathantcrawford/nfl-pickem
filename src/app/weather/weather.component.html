@@ -1,1 +1,4 @@
-<p>{{ weather | json }}</p>
+<div *ngIf="weather; else loading">
+    <p>{{ weather.weather.main.temp }}</p>
+</div>
+<ng-template #loading>Waiting...</ng-template>

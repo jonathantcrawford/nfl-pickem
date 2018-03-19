@@ -10,9 +10,7 @@ import { Team } from '../_models/index';
 })
 export class TeamComponent implements OnInit {
 
-  @Input()
-  team: Team;
-
+  @Input() team: Team;
 
   constructor() { }
 
