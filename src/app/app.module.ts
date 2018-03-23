@@ -33,7 +33,7 @@ import {
 import { HomeComponent } from './home/index';
 import { LoginComponent } from './login/index';
 import { RegisterComponent } from './register/index';
-import { WeatherComponent } from './weather/weather.component';
+import { WeatherComponent, TempConvertPipe } from './weather/weather.component';
 import { GameEntryComponent } from './game-entry/game-entry.component';
 import { TeamComponent } from './team/team.component';
 
@@ -129,6 +129,7 @@ import { AnimatedContainerComponent } from './animated-container/animated-contai
         LoginComponent,
         RegisterComponent,
         WeatherComponent,
+        TempConvertPipe,
         SchedulePipe,
         GameEntryComponent,
         TeamComponent,

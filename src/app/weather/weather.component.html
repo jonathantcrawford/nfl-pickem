@@ -1,4 +1,4 @@
 <div *ngIf="weather; else loading">
-    <p>{{ weather.weather.main.temp }}</p>
+    <h4 class="center-align">{{ weather.weather.main.temp | tempConvert:['f', 1] }}</h4>
 </div>
 <ng-template #loading>Waiting...</ng-template>

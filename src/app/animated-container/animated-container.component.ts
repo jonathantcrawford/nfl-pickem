@@ -14,16 +14,22 @@ import {
   styleUrls: ['./animated-container.component.css'],
   animations: [
     trigger('transitionState', [
-      state('inactive', style({
+      state('inactive',   style({
         backgroundColor: '#eee',
-        transform: 'scale(1)'
+        transform: 'scale(0)'
       })),
-      state('active',   style({
-        backgroundColor: '#cfd8dc',
-        transform: 'scale(1.1)'
+      state('loser', style({
+        backgroundColor: '#eee',
+        transform: 'scale(0.7)'
       })),
-      transition('inactive => active', animate('300ms ease-in')),
-      transition('active => inactive', animate('300ms ease-out'))
+      state('winner',   style({
+        backgroundColor: '#4caf50',
+        transform: 'scale(0.9)'
+      })),
+      transition('inactive => winner', animate('300ms ease-in')),
+      transition('inactive => loser', animate('300ms ease-in')),
+      transition('loser => winner', animate('300ms ease-in')),
+      transition('winner => loser', animate('300ms ease-out'))
     ])
   ]
 })
@@ -35,7 +41,4 @@ export class AnimatedContainerComponent implements OnInit {
 
   ngOnInit() {
   }
-
-
-
 }

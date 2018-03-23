@@ -5,23 +5,26 @@
     <div *ngIf="((awayTeam | async) && (homeTeam | async) && (weather | async)); else loading">
             <div class="col s4">
             <app-team [team]="(awayTeam | async)" (picked)="picked($event)"></app-team>
-            
+            <app-animated-container [animState]="awayTeamPrediction"></app-animated-container>
             </div>
 
 
             <div class="col s4">
             <app-weather [weather]="(weather | async)"></app-weather>
 
-
-            <app-animated-container [animState]="anim"></app-animated-container>
-
-                 
+            <div *ngIf="awayTeam | async as away">
+                <h5 class="center-align">{{ away.Location + ' ' + away.Name}}</h5>
+            </div>
+            <h6 class="center-align"> @ </h6>
+            <div *ngIf="homeTeam | async as home">
+                <h5 class="center-align">{{ home.Location + ' ' + home.Name}}</h5>
+            </div>
             </div>
 
             <div class="col s4">
 
              <app-team [team]="(homeTeam| async)" (picked)="picked($event)"></app-team>
-
+             <app-animated-container [animState]="homeTeamPrediction"></app-animated-container>
             </div>     
     </div>
     
