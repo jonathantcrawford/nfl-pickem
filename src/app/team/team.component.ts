@@ -1,6 +1,7 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 
 import { Team } from '../_models/index';
+
 
 
 @Component({
@@ -10,12 +11,23 @@ import { Team } from '../_models/index';
 })
 export class TeamComponent implements OnInit {
 
-  @Input() team: Team;
+  @Input()
+  team: Team;
 
-  constructor() { }
+
+  @Output() picked = new EventEmitter();
+
+
+  constructor() {
+
+  }
 
   ngOnInit() {
   }
 
+
+  pick() {
+    this.picked.emit(this.team);
+  }
 
 }

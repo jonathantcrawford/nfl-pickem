@@ -4,6 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
+
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { CdkTableModule } from '@angular/cdk/table';
 import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
@@ -75,6 +76,7 @@ import {
     MatToolbarModule,
     MatTooltipModule
   } from '@angular/material';
+import { AnimatedContainerComponent } from './animated-container/animated-container.component';
 
 
 
@@ -129,7 +131,8 @@ import {
         WeatherComponent,
         SchedulePipe,
         GameEntryComponent,
-        TeamComponent
+        TeamComponent,
+        AnimatedContainerComponent
     ],
     providers: [
         AuthGuard,

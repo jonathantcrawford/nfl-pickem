@@ -1,4 +1,12 @@
-#logo {
-    height: 50px;
-    width: 50px;
+#team-button {
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100%;
 }
+
+#team-logo {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+

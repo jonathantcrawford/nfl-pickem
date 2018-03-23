@@ -61,11 +61,11 @@
                     <div *ngFor="let game of ( season | async ) | schedulePipe:(teams | async):{week: selectedWeek}:{Conference: selectedConference, Division: selectedDivision}">
                          
                         <ul class="collection z-depth-4">
-
+                            
                             <li class="collection-item">
                                 <app-game-entry [gameentry]="game"></app-game-entry>
                             </li>
-                    
+
                         </ul>
                     </div>
                 </div>

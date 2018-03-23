@@ -1,6 +1,11 @@
 <div *ngIf="team; else loading">
-<div class="card-panel blue-grey darken-1 hoverable">
-  <img id="logo" src="{{ team.Logo }}">
+
+    <button id="team-button" mat-raised-button (click)="pick()">
+        <img id="team-logo" src={{team.Logo}}/>
+    </button>
+
+
 </div>
-</div>
-<ng-template #loading>Waiting...</ng-template>
+<ng-template #loading>Waiting...
+</ng-template>
+

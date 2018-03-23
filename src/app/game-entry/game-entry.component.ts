@@ -17,7 +17,8 @@ import { WeatherService } from '../_services/index';
 })
 export class GameEntryComponent implements OnInit {
 
-
+  anim = 'inactive';
+  winner = {};
   @Input() gameentry: GameEntry;
   awayTeam: Observable<Team>;
   homeTeam: Observable<Team>;
@@ -34,6 +35,12 @@ export class GameEntryComponent implements OnInit {
     this.homeTeam = this.teamService.getTeamWithID(this.gameentry.homeTeam.ID);
     this.homeTeam
       .subscribe(team => this.weather = this.weatherService.getStadiumWeather(team));
+  }
+
+
+  picked(pick: Team) {
+    this.winner = pick;
+    this.anim = this.anim === 'active' ? 'inactive' : 'active';
   }
 
 
